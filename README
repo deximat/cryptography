@@ -1,0 +1,21 @@
+Test 2 - Crytography 
+
+  Primality testing algorithms
+  	- Solovay–Strassen primality test
+  	- Miller–Rabin primality test
+  
+  Factorization algorithms
+    - Pollard's p − 1 algorithm
+  	- Pollard's rho algorithm
+  	
+  RSA attacks 
+  	- Wiener's attack
+  	
+  Cryptosystems
+  	- ElGamal encryption
+  	- DES (Data Encryption Standard)
+  	- AES (Advanced Encryption Standard)
+  
+  Operations with 
+  	- Eliptic curves
+  	- Polinomials 
